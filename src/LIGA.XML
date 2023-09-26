@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE LIGA SYSTEM "DTDvalidar.DTD">
+<LIGA>
+    <Fecha>2023-09-25</Fecha>
+    <Partidos>
+        <Partido>
+            <Equipos>
+                <Local>Equipo ROJO</Local>
+                <Visitante>Equipo AZUL</Visitante>
+            </Equipos>
+            <Marcador>2-1</Marcador>
+            <Goles>
+                <Gol>
+                    <Jugador>Alfonso Herrera</Jugador>
+                    <Minuto>20</Minuto>
+                </Gol>
+                <Gol>
+                    <Jugador>Nicolas Frias</Jugador>
+                    <Minuto>30</Minuto>
+                </Gol>
+                <Gol>
+                    <Jugador>Jose Antonio</Jugador>
+                    <Minuto>70</Minuto>
+                </Gol>
+            </Goles>
+        </Partido>
+    </Partidos>
+</LIGA>
